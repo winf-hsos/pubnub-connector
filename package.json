@@ -1,0 +1,27 @@
+{
+  "name": "pubnub-connector",
+  "version": "0.0.1",
+  "description": "A node library to simplify the connection to PubNub and send / receive messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winf-hsos/pubnub-connector.git"
+  },
+  "keywords": [
+    "iot",
+    "pubnub"
+  ],
+  "author": "Nicolas Meseth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winf-hsos/pubnub-connector/issues"
+  },
+  "homepage": "https://github.com/winf-hsos/pubnub-connector#readme",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "pubnub": "^4.21.6"
+  }
+}
